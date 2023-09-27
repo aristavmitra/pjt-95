@@ -1,0 +1,37 @@
+#div1{
+    background-color: white;
+    width: 50%;
+    margin: 10px;
+    padding: 50px;
+}
+label{
+    margin: 10px;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+#b1{
+    width:150px ;
+    font-size: large;
+    background-color: blue;
+    color: white;
+    border-radius: 12px;
+}
+#heading{
+    font-family: 'Tulpen One', cursive;
+    font-size: 75px;
+    letter-spacing: 5px;
+}
+body{
+    background-color: aquamarine;
+}
+#img1{
+    width: 70px;
+    height: 70px;
+    
+}
+#img2{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    
+}

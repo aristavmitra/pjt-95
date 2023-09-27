@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(62, 238, 19);
+    text-align: center;
+    color: white;
+}
+#img1{
+    width: 70px;
+    height: 70px;
+}
+#addrooms{
+    background-color: aquamarine;
+    width: 150px;
+    height: 50px;
+    border-radius:14px ;
+    color: black;
+    font-weight: bold;
+}
+#b2{
+    background-color: red;
+    width: 150px;
+    height: 50px;
+    border-radius:14px ;
+    color: white;
+    font-weight: bold;
+    float: right; 
+}
+#div2{
+    background-color: white;
+    padding:10px;
+    border: 5px green ridge; 
+    border-radius:12px ;
+    width: 60%;
+    color: black;
+}
